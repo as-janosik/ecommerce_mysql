@@ -21,6 +21,7 @@
 
   ## Description of Project  
   Using the Models and Routes we are updating a database for a ecommerce site via api calls.  
+  [link to video](https://drive.google.com/file/d/19mN5ceIBCvtFykS01QAVc7frI4sY1x0h/view?usp=sharing)
 
   ## Installation Instructions  
   npm and mysql are needed  
